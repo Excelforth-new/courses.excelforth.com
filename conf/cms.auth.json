@@ -90,8 +90,8 @@
         "user": "edxapp"
     },
     "ECOMMERCE_API_SIGNING_KEY": "SET-ME-PLEASE",
-    "EMAIL_HOST_PASSWORD": "eXcelforth20!8",
-    "EMAIL_HOST_USER": "elearning@excelforth.com",
+    "EMAIL_HOST_PASSWORD": "Qf5bPlsrM1VUD75dv8viJO0RRESZg0sSeqm",
+    "EMAIL_HOST_USER": "",
     "ENTERPRISE_SERVICE_WORKER_USERNAME": "enterprise_worker",
     "EVENT_TRACKING_SEGMENTIO_EMIT_WHITELIST": [],
     "FACEBOOK_API_VERSION": "v2.1",
